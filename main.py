@@ -1,4 +1,4 @@
 #WRITE YOUR CODE IN THIS FILE
 def Woof():
-    return "woof"
+    return "Woof"
 print(Woof())
